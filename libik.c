@@ -2,5 +2,5 @@
 
 int libik_funkcja(int a, int b)
 {
-	return 2 * a + b;
+	return 3 * a + b;
 }
